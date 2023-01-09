@@ -1,0 +1,186 @@
+[
+    {
+        "name": "file0",
+        "name_stripped": "file0",
+        "ext": ".inp",
+        "path": "U:\\Python\\quick-culling\\testroot\\file0.inp",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "."
+    },
+    {
+        "name": "file0",
+        "name_stripped": "file0",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\file0.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "."
+    },
+    {
+        "name": "file0",
+        "name_stripped": "file0",
+        "ext": ".vic",
+        "path": "U:\\Python\\quick-culling\\testroot\\file0.vic",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "."
+    },
+    {
+        "name": "file1_A",
+        "name_stripped": "file1",
+        "ext": ".inp",
+        "path": "U:\\Python\\quick-culling\\testroot\\file1_A.inp",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "A"
+    },
+    {
+        "name": "file1_A",
+        "name_stripped": "file1",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\file1_A.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "A"
+    },
+    {
+        "name": "file1_A",
+        "name_stripped": "file1",
+        "ext": ".vic",
+        "path": "U:\\Python\\quick-culling\\testroot\\file1_A.vic",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "A"
+    },
+    {
+        "name": "file1_B",
+        "name_stripped": "file1",
+        "ext": ".inp",
+        "path": "U:\\Python\\quick-culling\\testroot\\file1_B.inp",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "B"
+    },
+    {
+        "name": "file1_B",
+        "name_stripped": "file1",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\file1_B.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "B"
+    },
+    {
+        "name": "file1_B",
+        "name_stripped": "file1",
+        "ext": ".vic",
+        "path": "U:\\Python\\quick-culling\\testroot\\file1_B.vic",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "B"
+    },
+    {
+        "name": "file1_C",
+        "name_stripped": "file1",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\file1_C.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "C"
+    },
+    {
+        "name": "file1_C",
+        "name_stripped": "file1",
+        "ext": ".vic",
+        "path": "U:\\Python\\quick-culling\\testroot\\file1_C.vic",
+        "dir_path": "U:\\Python\\quick-culling\\testroot",
+        "index": "C"
+    },
+    {
+        "name": "file10",
+        "name_stripped": "file10",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\file10.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1",
+        "index": "."
+    },
+    {
+        "name": "file11",
+        "name_stripped": "file11",
+        "ext": ".pdf",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\file11.pdf",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1",
+        "index": "."
+    },
+    {
+        "name": "file11_A",
+        "name_stripped": "file11",
+        "ext": ".pdf",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\file11_A.pdf",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1",
+        "index": "A"
+    },
+    {
+        "name": "file110",
+        "name_stripped": "file110",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub11\\file110.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub11",
+        "index": "."
+    },
+    {
+        "name": "file111",
+        "name_stripped": "file111",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub11\\file111.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub11",
+        "index": "."
+    },
+    {
+        "name": "file112",
+        "name_stripped": "file112",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub11\\file112.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub11",
+        "index": "."
+    },
+    {
+        "name": "file120",
+        "name_stripped": "file120",
+        "ext": ".inp",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub12\\file120.inp",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub12",
+        "index": "."
+    },
+    {
+        "name": "file120",
+        "name_stripped": "file120",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub12\\file120.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub12",
+        "index": "."
+    },
+    {
+        "name": "file120",
+        "name_stripped": "file120",
+        "ext": ".vic",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub12\\file120.vic",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub12",
+        "index": "."
+    },
+    {
+        "name": "file121",
+        "name_stripped": "file121",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub12\\file121.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub12",
+        "index": "."
+    },
+    {
+        "name": "file121",
+        "name_stripped": "file121",
+        "ext": ".vic",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub12\\file121.vic",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub1\\sub12",
+        "index": "."
+    },
+    {
+        "name": "file20",
+        "name_stripped": "file20",
+        "ext": ".txt",
+        "path": "U:\\Python\\quick-culling\\testroot\\sub2\\file20.txt",
+        "dir_path": "U:\\Python\\quick-culling\\testroot\\sub2",
+        "index": "."
+    }
+]
