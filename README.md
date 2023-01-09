@@ -4,7 +4,7 @@ Flexible script to create a file catalog of a directory and find orphaned files 
 ## Usage
 
 Run the dashboard using 
-```
+```powershell
 >>> streamlit run quick_culling_dash.py
 ```
 
